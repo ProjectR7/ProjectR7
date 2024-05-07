@@ -7,9 +7,9 @@
  </div>
 
 <div>
-  <a/href="https://github.com/ProjectR7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosouza&layout=compact&langs_count=16&theme=dark"/>
+  <a/href="https://github.com/typhz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=typhz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhz&layout=compact&langs_count=16&theme=dark"/>
   </div>
 
   <div style="display: inline_block" align="center"><br>
